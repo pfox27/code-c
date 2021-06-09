@@ -1,4 +1,4 @@
-/* A program that outputs characters typed to the screen, using getchar. */
+/* A program that outputs characters typed to the screen, using getchar and putchar. */
 
 #include<stdio.h>
 #include<stdlib.h>
