@@ -6,7 +6,7 @@ given its radius and mass.  The license here is the "free as a byrd" license. */
 
 int main(){
 
-	float G = 6.67E-11;
+  float G = 6.67E-11;
   float mass, radius, g;
 
 	printf("Please enter the mass of the planetoid for the calculation: \n");
